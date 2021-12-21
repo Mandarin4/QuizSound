@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Пение птиц</string>
+
+    <string name="btn_start">Начать</string>
+    <string name="play_music">Прослушать пение</string>
+    <string name="stop_music">Остановить пение</string>
+
+
+    <string name="txt_quiz_activity">Определите птицу по ее пению</string>
+    <string name="txt_radio">RadioBtn</string>
+    <string name="stop_test">Завершить викторину</string>
+    <string name="txt_result_ac">Вы ответили на 7 вопросов из 10</string>
+    <string name="txt_exit">Вернуться в главное меню</string>
+
+
+</resources>
